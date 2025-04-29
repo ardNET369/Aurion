@@ -27,13 +27,13 @@ Aurion (AUR) is a decentralized, sovereign digital currency...
 | Early Supporters Wallet | 200,000,000 AUR |
 | Founder's Reserve | 400,000,000 AUR |
 
-## Governance Roadmap:
+## Strategic Roadmap:
 | Phase | Action |
 |:---|:---|
-| Phase 1 | Deploy AUR, establish liquidity, bootstrap DAO |
-| Phase 2 | DAO voting for expansion |
-| Phase 3 | Aurion-native dApps |
-| Phase 4 | Sovereign AUR Chain launch |
+| Phase 1 | Deploy AUR on Arbitrum One, establish liquidity, activate treasury, and initiate DAO framework |
+| Phase 2 | Activate DAO governance: voting rights for mission scope, partnerships, and resource flow |
+| Phase 3 | Launch native dApps powered by AUR: autonomous contracts, private comms, decentralized infrastructure |
+| Phase 4 | Full sovereign chain deployment: The Aurion Blockchain -- a Layer 1 designer for sovereign coordinaction at interplanetary scale |
 
 ## Official Contract Address:
 0x75Fdb85b04cb1606650F635A74FF7AD2e3C88f41
