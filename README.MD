@@ -1,7 +1,7 @@
 # Aurion (AUR) — Currency of Sovereignty
 
 <p align="center">
-  <img src="https://github.com/ardNET369/Aurion/blob/main/.png" alt="Aurion Logo" width="300"/>
+  <img src="https://github.com/ardNET369/Aurion/blob/main/aurion.png" alt="Aurion Logo" width="300"/>
 </p>
 
 **Mission Statement:**  
