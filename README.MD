@@ -1,5 +1,9 @@
 # Aurion (AUR) — Currency of Sovereignty
 
+<p align="center">
+  <img src="https://github.com/ardNET369/Aurion/blob/main/.png" alt="Aurion Logo" width="300"/>
+</p>
+
 **Mission Statement:**  
 _Aurion is a sovereign transactional cryptocurrency, engineered for decentralization, autonomy, and the expansion of intelligent civilizations across physical and digital space._
 
