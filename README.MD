@@ -4,7 +4,6 @@
   <img src="https://github.com/ardNET369/Aurion/blob/main/aurion.png" alt="Aurion Logo" width="300"/>
 </p>
 
-### Whitepaper
 
 ### Mission Statement
 
