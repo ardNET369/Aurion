@@ -48,13 +48,13 @@ Aurion (AUR) is a decentralized, sovereign digital currency deployed on Arbitrum
 
 | **Category**                | **Allocation** | **Purpose**                                    | **Vesting**               |
 | --------------------------- | -------------- | ---------------------------------------------- | ------------------------- |
-| Aurion Ecosystem Incentives | 5% (50M) ✅     | Dev bounties, community rewards, hackathons    | Linear over 2 years       |
-| Aurion Treasury             | 25% (250M) ✅   | Grants, proposals, public goods funding        | Controlled by DAO         |
+| Aurion Ecosystem Incentives | 5% (50M)     | Dev bounties, community rewards, hackathons    | Linear over 2 years       |
+| Aurion Treasury             | 25% (250M)   | Grants, proposals, public goods funding        | Controlled by DAO         |
 | Liquidity & Partnerships    | 7.5% (75M)     | Exchanges, initial LP, cross-chain bridges     | Rolling unlocks           |
-| Core Team                   | 20% (200M) ✅   | Long-term alignment for core contributors      | 1 year cliff, 3 year vest |
-| Early Supporters            | 10% (100M) ✅   | Strategic airdrops, seed round staking rewards | Partial vesting           |
-| Reserve / Emergency Ops     | 10% (100M) ✅   | Flex fund for ops or future pivots             | Frozen until Phase 3      |
-| Other Ops              | 22.5% (225M) ✅   | Other operations in interest of Aurion   | Strategic deployment only |
+| Core Team                   | 20% (200M)   | Long-term alignment for core contributors      | 1 year cliff, 3 year vest |
+| Early Supporters            | 10% (100M)   | Strategic airdrops, seed round staking rewards | Partial vesting           |
+| Reserve / Emergency Ops     | 10% (100M)   | Flex fund for ops or future pivots             | Frozen until Phase 3      |
+| Other Ops              | 22.5% (225M)   | Other operations in interest of Aurion   | Strategic deployment only |
 
 ---
 
