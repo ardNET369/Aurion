@@ -4,7 +4,7 @@
   <img src="https://github.com/ardNET369/Aurion/blob/main/aurion.png" alt="Aurion Logo" width="300"/>
 </p>
 
-##Whitepaper
+###Whitepaper
 
 ### Mission Statement
 
@@ -55,7 +55,7 @@ Aurion (AUR) is a decentralized, sovereign digital currency deployed on Arbitrum
 | Core Team                   | 20% (200M) ✅   | Long-term alignment for core contributors      | 1 year cliff, 3 year vest |
 | Early Supporters            | 10% (100M) ✅   | Strategic airdrops, seed round staking rewards | Partial vesting           |
 | Reserve / Emergency Ops     | 10% (100M) ✅   | Flex fund for ops or future pivots             | Frozen until Phase 3      |
-| Other Ops              | 25% (250M) ✅   | Other operations in interest of Aurion   | Strategic deployment only |
+| Other Ops              | 22.5% (225M) ✅   | Other operations in interest of Aurion   | Strategic deployment only |
 
 ---
 
